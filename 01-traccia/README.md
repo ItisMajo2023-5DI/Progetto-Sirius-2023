@@ -22,8 +22,8 @@ Il progetto dovrà comprendere almeno:
 
 I dati verranno mostrati anche con l’ausilio di grafici, le immagini seguenti, fornite da Sirius, costituiscono un esempio dell’interfaccia attesa:
 
-![Elenco Pale Eoliche](10-materiali/elenco-pale.png)
-![Dettaglio Pala Eolica](10-materiali/dettagli-pala.png)
+![Elenco Pale Eoliche](../10-materiali/elenco-pale.png)
+![Dettaglio Pala Eolica](../10-materiali/dettagli-pala.png)
 
 Le informazioni verranno lette dalla porzione back end attraverso una serie di URI da chiamare con una HTTP Request, la risposta a tali chiamate sarà fornita in formato JSON. 
 
@@ -124,5 +124,5 @@ Inoltre, si richiede di:
 
 Le seguenti immagini illustrano parzialmente il documento Excel fornito:
 
-![Elenco Excel Pale Eoliche](10-materiali/excel-elenco-pale.png)
-![Dettaglio Excel Pala](10-materiali/excel-dettaglio-pale.png)
+![Elenco Excel Pale Eoliche](../10-materiali/excel-elenco-pale.png)
+![Dettaglio Excel Pala](../10-materiali/excel-dettaglio-pale.png)
